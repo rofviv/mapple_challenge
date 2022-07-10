@@ -16,8 +16,8 @@ Como propietario de un producto, quiero tener una aplicación móvil simple para
 <img src="https://github.com/rofviv/mapple_challenge/blob/master/assets/screens/screen2.jpeg?raw=true" alt="drawing" width="200"/>
 <img src="https://github.com/rofviv/mapple_challenge/blob/master/assets/screens/screen3.jpeg?raw=true" alt="drawing" width="200"/>
 </p>
-<br/>
-<center>
+
+<p align="center">
 <img src="https://github.com/rofviv/mapple_challenge/blob/master/assets/screens/screen4.jpeg?raw=true" alt="drawing" width="200"/>
 <img src="https://github.com/rofviv/mapple_challenge/blob/master/assets/screens/screen5.jpeg?raw=true" alt="drawing" width="200"/>
-</center>
+</p>
