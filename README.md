@@ -1,8 +1,10 @@
 # Mapple Challenge
 
-**[Flutter Modular](https://pub.dev/packages/flutter_modular "Flutter Modular")**
-**[Flutter Bloc](https://pub.dev/packages/flutter_bloc")**
-**[API Mercado Libre](https://api.mercadolibre.com/")**
+Estructura de proyecto **[Flutter Modular](https://pub.dev/packages/flutter_modular "Flutter Modular")**
+
+Gestor de estados **[Flutter Bloc](https://pub.dev/packages/flutter_bloc")**
+
+Rest API **[API Mercado Libre](https://api.mercadolibre.com/")**
 
 Como propietario de un producto, quiero tener una aplicación móvil simple para navegar por un catálogo en línea.
 - Buscar una lista de productos que coincidan con un criterio de búsqueda
