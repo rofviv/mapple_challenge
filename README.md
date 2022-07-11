@@ -1,9 +1,7 @@
 # Mapple Challenge
 
 Estructura de proyecto **[Flutter Modular](https://pub.dev/packages/flutter_modular "Flutter Modular")**
-
 Gestor de estados **[Flutter Bloc](https://pub.dev/packages/flutter_bloc")**
-
 Rest API **[API Mercado Libre](https://api.mercadolibre.com/")**
 
 Como propietario de un producto, quiero tener una aplicación móvil simple para navegar por un catálogo en línea.
